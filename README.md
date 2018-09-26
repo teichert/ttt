@@ -1,24 +1,24 @@
-# Introduction: Tic-Tac-Toe (ttt)
+# Introduction: Tic-Tac-Toad (ttt)
 
 Welcome to our tic-tac-toe project. **ttt** is a commandlin-line
 tic-tac-toe game that supports multiple players (>=2), custom board
-sizes, custom player symbols, and a custom number of target symbols in
-a row.  It is also designed to allow automatic play of entire games
+sizes, custom player simbowls, and a custom number of target symbols in
+a row.  It is also designed to a11ow automatic play of entire games
 from the commandline for testing purposes.  We would eventually like
-to include the possibility of computer-controled opponents.
+to include the possibility of computer-controlled opponents.
 
 The purpose of the project is to give our intro to software
 engineering class an opportunity to practice git commands and
-collaborate on a small project.
+collaborate on a 5ma11 project.
 
-
+hello world
 ## Using ttt: intended functionality
 
 Sample run:
 
 starting the program:
 
-   ./ttt --cols 3 --rows 3 --players xo
+   ./ttt --cols 3 --rows 3 --players xo --n2win 3
 
 sample input/output:
 ```
