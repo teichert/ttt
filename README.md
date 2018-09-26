@@ -19,6 +19,9 @@ Sample run:
 starting the program:
 
    ./ttt --cols 3 --rows 3 --players xo
+
+sample input/output:
+```
   1 2 3
 a  | |
   -----
@@ -26,6 +29,7 @@ b  | |
   -----
 c  | |
 x's turn: a3
+
   1 2 3
 a  | |x
   -----
@@ -33,6 +37,7 @@ b  | |
   -----
 c  | |
 o's turn: b3
+
   1 2 3
 a  | |x
   -----
@@ -40,6 +45,7 @@ b  | |o
   -----
 c  | |
 x's turn: b2
+
   1 2 3
 a  | |x
   -----
@@ -47,6 +53,7 @@ b  |x|o
   -----
 c  | |
 o's turn: c3
+
   1 2 3
 a  | |x
   -----
@@ -54,3 +61,4 @@ b  |x|o
   -----
 c x| |o
 the winner is x
+```
