@@ -18,7 +18,7 @@ Sample run:
 
 starting the program:
 
-   ./ttt --cols 3 --rows 3 --players xo
+   ./ttt --cols 3 --rows 3 --players xo --n2win3
 
 sample input/output:
 ```
